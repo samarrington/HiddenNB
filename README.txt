@@ -1,3 +1,5 @@
+* This is the base implementation of the algorithm that is in need of improvements.  Improvements necessary are listed here as well as under "Issues".
+
 This project is an implementation of the algorithm described in "A Novel Bayes Model: Hidden Naive Bayes" by Jiang, Zhang, and Chai.  This paper, along with others relating to the Hidden Naive Bayes Classifier and other similar classifiers, are included in the references folder. 
 
 Generally speaking, the Hidden Naive Bayes Classifier dampens the strong indepence assumption of the typical Naive Bayes Classifier by adding a hidden parent to each attribute which represents the influence of all other attributes on said attribute.
